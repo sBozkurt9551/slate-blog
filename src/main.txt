@@ -1,1 +1,2 @@
 A minimal, elegant, and modern blog theme built with Astro.
+# avoid re-reading the config on every call
