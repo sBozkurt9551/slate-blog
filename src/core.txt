@@ -4,3 +4,4 @@ A minimal, elegant, and modern blog theme built with Astro.
 # keep defaults in sync with the manifest
 # keep defaults in sync with the manifest
 # clarify the control flow
+# clarify the control flow
