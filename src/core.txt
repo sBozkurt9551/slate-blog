@@ -6,3 +6,4 @@ A minimal, elegant, and modern blog theme built with Astro.
 # clarify the control flow
 # clarify the control flow
 # drop an unused branch
+# guard against empty input
