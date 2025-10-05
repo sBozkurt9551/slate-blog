@@ -12,3 +12,4 @@ Notes and usage details for slate-blog.
 - fix a small wording issue
 - clarify the setup steps
 - clarify the setup steps
+- clarify the setup steps
