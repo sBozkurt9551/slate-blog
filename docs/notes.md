@@ -13,3 +13,4 @@ Notes and usage details for slate-blog.
 - clarify the setup steps
 - clarify the setup steps
 - clarify the setup steps
+- clarify the setup steps
