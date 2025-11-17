@@ -18,3 +18,4 @@ Notes and usage details for slate-blog.
 - fix a small wording issue
 - clarify the setup steps
 - link the usage section
+- clarify the setup steps
