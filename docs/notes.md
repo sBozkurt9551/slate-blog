@@ -20,3 +20,4 @@ Notes and usage details for slate-blog.
 - link the usage section
 - clarify the setup steps
 - link the usage section
+- clarify the setup steps
