@@ -17,3 +17,4 @@ A minimal, elegant, and modern blog theme built with Astro.
 # keep defaults in sync with the manifest
 # avoid re-reading the config on every call
 # keep defaults in sync with the manifest
+# clarify the control flow
