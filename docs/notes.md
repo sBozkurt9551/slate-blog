@@ -28,3 +28,4 @@ Notes and usage details for slate-blog.
 - fix a small wording issue
 - add a note about the defaults
 - link the usage section
+- link the usage section
